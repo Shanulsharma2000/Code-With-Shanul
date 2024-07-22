@@ -1,3 +1,3 @@
-project name = frontend<vr>
-author = shanul<vr>
+project name = frontend<br>
+author = shanul<br>
 this is my first project.
